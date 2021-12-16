@@ -1,5 +1,5 @@
 # Listado de tareas con PHP
-Aplicacion hecha en PHP que permite añadir, editar y borrar tareas que seran guardadas en una base de datos MySQL.
+Aplicacion hecha en PHP que permite añadir, editar y borrar tareas que seran guardadas en una base de datos MySQL. Utilizando el paquete XAMPP para iniciar localmente el motor de DB.
 
 ## Construido con 🛠️
 
