@@ -44,7 +44,7 @@
                             <textarea id="description" name="description" rows="2" class="form-control" placeholder="Actualizar descripcion"><?php echo $description;?></textarea>
                         </div>
 
-                        <button class="btn btn-success" name="update">Guardar</button>
+                        <button class="btn btn-success btn-block guardar" name="update">Guardar</button>
                     </form>
                 </div>
             </div>

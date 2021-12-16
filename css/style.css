@@ -2,7 +2,7 @@
     padding: 7px;
 }
 
-.formulario > input{
+.guardar{
     width: 100%;
 }
 
@@ -20,4 +20,8 @@
 
 h1{
     text-align: center;
+}
+
+.form-group{
+    margin-bottom: 15px;
 }
