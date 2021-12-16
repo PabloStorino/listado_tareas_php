@@ -15,7 +15,7 @@
             <?php session_unset();} ?>
 
                 <div class="card card-body">
-                    <form action="save_task.php" method="POST">
+                    <form action="save_task.php" method="POST" class="formulario">
                         <div class="form-group">
                             <input type="text" name="title" class="form-control" placeholder="Titulo de tarea" autofocus/>
                         </div>
@@ -27,12 +27,12 @@
                 </div>
             </div>
             <div class="col-md-8">
-                <table class="table table-bordered">
+                <table class="table table-bordered listado">
                     <thead>
                         <tr>
                             <th>Tarea</th>
                             <th>Descripcion</th>
-                            <th>Fecha de creacion</th>
+                            <th>Creada el</th>
                             <th>Acciones</th>
                         </tr>
                     </thead>

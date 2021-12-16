@@ -1,0 +1,19 @@
+.formulario > div{
+    padding: 7px;
+}
+
+.formulario > input{
+    width: 100%;
+}
+
+.listado > thead {
+    background-color: rgb(226, 224, 233);
+}
+
+.navbar {
+    background-color: rgb(41, 39, 49);
+}
+
+.navbar a {
+    color: white;
+}
