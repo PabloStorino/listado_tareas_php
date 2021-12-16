@@ -4,11 +4,18 @@ Aplicacion hecha en PHP que permite añadir, editar y borrar tareas que seran gu
 ## Construido con 🛠️
 
 BACK-END:
-* [XAMPP](https://www.apachefriends.org/es/index.html)
+* [XAMPP](https://www.apachefriends.org/es/index.html) - Motor de base de datos MySQL
+* [MySQLi] - Controlador de base de datos
 
 FRONT-END:
 * [BOOTSTRAP](https://getbootstrap.com/)
 * [Font-Awesome](https://fontawesome.com/)
+
+## Estructura de carpetas:
+
+* /SQL - Contiene un script de SQL y DER.
+* /includes - Archivos PHP que conforman el header y footer de la aplicacion.
+* / - Archivos PHP que conforman las operaciones en la base de datos (insert, delete, update) y el archivo INDEX del proyecto.
 
 ## Ejecucion:
 
