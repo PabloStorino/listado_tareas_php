@@ -22,7 +22,7 @@ FRONT-END:
 1) Clonar repositorio
 2) Instalar y correr motor MySQL de XAMPP
 3) Ejecutar script SQL para cargar la base de datos localmente.
-4) Abrir navegador, escribir en la URL "http://localhost/php-crud/index.php"
+4) Abrir navegador, escribir en la URL "http://localhost/tasklist_PHP/index.php"
 
 ## Autores ✒️
 * **Pablo Altamirano Storino** - *Desarrollo*
