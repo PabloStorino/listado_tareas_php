@@ -16,6 +16,7 @@ FRONT-END:
 * /SQL - Contiene un script de SQL y DER.
 * /includes - Archivos PHP que conforman el header y footer de la aplicacion.
 * / - Archivos PHP que conforman las operaciones en la base de datos (insert, delete, update) y el archivo INDEX del proyecto.
+* /css - Contiene archivos de estilo CSS
 
 ## Ejecucion:
 
